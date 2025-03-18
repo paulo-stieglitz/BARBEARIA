@@ -1,0 +1,27 @@
+
+body{
+    background-color: rgba(111, 108, 110, 0.44);
+}
+#banner{
+    width: 100%;
+}
+h1{
+    background-color: rgb(132, 180, 183);
+    text-align: center;
+    
+    border-radius: 30px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+#missão{
+    font-size: 30px
+}
+strong{ 
+    background-color: rgb(225, 225, 225)     ;
+    border-radius: 15px;
+
+}
